@@ -1,6 +1,6 @@
 # Lab 05 - Real-Time Stream Enrichment (Stream-Static Join)
 
-**Course / Track:** MBA in Data Engineering (ABD) — Stream Processing Pipelines (SPP)  
+**Course / Track:** MBA in Data Engineering (ABD) — Streaming Data Pipeline Architectures (SDPA)  
 **Environment:** Databricks Free Edition ([login.databricks.com](https://login.databricks.com/))  
 **Language / Stack:** Python 3.11+ / PySpark Structured Streaming / Spark SQL  
 **Estimated Duration:** 25 to 30 minutes  

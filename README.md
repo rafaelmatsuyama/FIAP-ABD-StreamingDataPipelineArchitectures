@@ -1,7 +1,7 @@
 # Enterprise Real-Time Stream Processing & Lakehouse Architecture Blueprint
 
 [![FIAP MBA](https://img.shields.io/badge/FIAP-MBA%20Engenharia%20de%20Dados-ED145B?logo=fiap&logoColor=white)](https://www.fiap.com.br/mba/mba-em-engenharia-de-dados/)
-[![Release](https://img.shields.io/badge/Release-v2026.1.0-007EC6?logo=github)](https://github.com/rafaelmatsuyama/FIAP-ABD-StreamProcessingPipelines/releases)
+[![Release](https://img.shields.io/badge/Release-v2026.1.2-007EC6?logo=github)](https://github.com/rafaelmatsuyama/FIAP-ABD-StreamingDataPipelineArchitectures/releases)
 ![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.5%2B-E25A1C?logo=apachespark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-Free%20Edition-FF3621?logo=databricks&logoColor=white)
@@ -118,7 +118,7 @@ This reference implementation incorporates critical engineering lessons learned 
 
 ## 🎓 Academic Validation & Field Hardening
 
-This framework and interactive lab suite were architected, refined, and battle-tested by **Rafael Matsuyama** as part of the **Stream Processing Pipelines** curriculum for the **Executive MBA in Data Engineering at FIAP** (São Paulo, Brazil).
+This framework and interactive lab suite were architected, refined, and battle-tested by **Rafael Matsuyama** as part of the **Streaming Data Pipeline Architectures (SDPA)** curriculum (formerly *Stream Processing Pipelines*) for the **Executive MBA in Data Engineering at FIAP** (São Paulo, Brazil).
 
 Senior data engineers, solutions architects, and analytics leaders across enterprise cohorts have executed, validated, and stress-tested these scenarios, providing continuous feedback to ensure that every laboratory reflects real-world corporate streaming workloads.
 
@@ -141,7 +141,7 @@ This repository follows a strict **Calendar Versioning with Cycle and Patch sema
   ```bash
   git checkout tags/v2026.1.0
   ```
-* All milestone releases and automated release notes are available on the official [GitHub Releases](https://github.com/rafaelmatsuyama/FIAP-ABD-StreamProcessingPipelines/releases) page.
+* All milestone releases and automated release notes are available on the official [GitHub Releases](https://github.com/rafaelmatsuyama/FIAP-ABD-StreamingDataPipelineArchitectures/releases) page.
 
 ---
 
